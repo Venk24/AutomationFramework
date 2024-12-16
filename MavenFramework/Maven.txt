@@ -1,0 +1,8 @@
+
+
+we will push our code into the git - repo
+
+jenkins --- Git Repo
+
+
+jenkins --- pom.xml  --- testng.xml --- scripting --- main functionlity --- page object will build

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T19:36:17 GMT" name="Suite" finished-at="2024-12-06T19:36:48 GMT" duration-ms="30975">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T19:36:17 GMT" name="Test" finished-at="2024-12-06T19:36:48 GMT" duration-ms="30975">
+      <class name="com.test.multipletests2">
+        <test-method is-config="true" signature="initialistaion()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:17 GMT" name="initialistaion" finished-at="2024-12-06T19:36:21 GMT" duration-ms="4041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialistaion -->
+        <test-method signature="Test1()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:21 GMT" name="Test1" finished-at="2024-12-06T19:36:32 GMT" duration-ms="10734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:32 GMT" name="cleanup" finished-at="2024-12-06T19:36:32 GMT" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+        <test-method is-config="true" signature="initialistaion()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:32 GMT" name="initialistaion" finished-at="2024-12-06T19:36:35 GMT" duration-ms="2599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialistaion -->
+        <test-method signature="Test2()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:35 GMT" name="Test2" finished-at="2024-12-06T19:36:36 GMT" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:com.test.multipletests2@e350b40]" started-at="2024-12-06T19:36:36 GMT" name="cleanup" finished-at="2024-12-06T19:36:36 GMT" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- com.test.multipletests2 -->
+      <class name="com.test.Multitest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.Multitest@117159c0]" started-at="2024-12-06T19:36:36 GMT" name="Initalization" finished-at="2024-12-06T19:36:44 GMT" duration-ms="7781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:1, instance:com.test.Multitest@117159c0]" started-at="2024-12-06T19:36:44 GMT" name="SelectDropDown" finished-at="2024-12-06T19:36:45 GMT" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="AdvanceDropDown()[pri:2, instance:com.test.Multitest@117159c0]" started-at="2024-12-06T19:36:45 GMT" name="AdvanceDropDown" finished-at="2024-12-06T19:36:48 GMT" duration-ms="3000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvanceDropDown -->
+        <test-method is-config="true" signature="Cleanup()[pri:0, instance:com.test.Multitest@117159c0]" started-at="2024-12-06T19:36:48 GMT" name="Cleanup" finished-at="2024-12-06T19:36:48 GMT" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cleanup -->
+      </class> <!-- com.test.Multitest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
